@@ -1,0 +1,32 @@
+                 
+                  &q	         :::::::::   :::::::: ::::::::::: ::::::::  :::    :::    
+                  &q	       :+:    :+: :+:    :+:    :+:    :+:    :+: :+:    :+:     
+                  &q	      +:+    +:+ +:+    +:+    +:+    +:+         +:+  +:+       
+                  &q	     +#+    +:+ +#+    +:+    +#+    +#++:++#++   +#++:+         
+                  &q	    +#+    +#+ +#+    +#+    +#+           +#+  +#+  +#+         
+                  &q	   #+#    #+# #+#    #+#    #+#    #+#    #+# #+#    #+#         
+                  &q	  #########   ########     ###     ########  ###    ###    
+                  
+    
+    &e(!) &kUtiliza &w%hotkey_a, %hotkey_d &ky &wENTER&k para desplazarte, utiliza &w%hotkey_p &kpara seleccionar una opción.
+    &r(!) &k¿Deseas continuar con la última partida?
+    
+    &tDatos:
+                
+                &k- &tFecha: &k%fecha
+                &k- &tModo: &k%mode
+                &k- &tPuntaje: &k%score
+                
+                               
+                     %yes  █|█|█|  █|█|█|                             %no█|      █|    █|█|  
+                     %yes█|          █|                               %no█|█|    █|  █|    █|  
+                       %yes█|█|      █|                               %no█|  █|  █|  █|    █|  
+                           %yes█|    █|                               %no█|    █|█|  █|    █|  
+                     %yes█|█|█|    █|█|█|                             %no█|      █|    █|█| 
+                       
+                                          
+  
+
+
+
+   

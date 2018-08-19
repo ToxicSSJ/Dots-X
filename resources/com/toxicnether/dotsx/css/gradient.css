@@ -1,0 +1,4 @@
+.animated {
+    -gradient-base: gray;
+    -fx-text-fill: linear-gradient(to right, -gradient-base, gray);
+}

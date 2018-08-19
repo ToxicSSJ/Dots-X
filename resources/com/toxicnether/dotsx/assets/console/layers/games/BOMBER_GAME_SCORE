@@ -1,0 +1,14 @@
+
+                &k ███▀▀========================================================▀▀███
+                &k██                     &qMODO DE JUEGO: &tBOMBER                     &k██
+                &k██                     &kCOMBO: &k%combo                                    &k██
+                &k████============================================================████
+                &k██                                                                ██
+                &k██   &qSCORE: &w%score   &qESTRELLAS: &w%stars   &qMOVIMIENTOS: &wINF&k/&wINF&k     ██
+                &k ███▄▄________________________________________________________▄▄███
+                
+    &e(!) &kSi deseas guardar la partida y salir ingresa &w[&q1&w]&k.
+    &e(!) &kSi deseas terminar la partida ingresa &w[&q2&w]&k.
+    &e(!) &kUtiliza &w%hotkey_w, %hotkey_a, %hotkey_s, %hotkey_d &ky &wENTER&k para desplazarte, utiliza &w%hotkey_p &kpara seleccionar una ficha.
+    &e(!) &kPuedes introducir secuencias que luego serán ejecutadas en orden.
+    &t(!) &kPara mas opciones puedes ingresar al apartado de configuración desde el menú.

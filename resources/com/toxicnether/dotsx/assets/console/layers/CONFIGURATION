@@ -1,0 +1,22 @@
+                 
+                  &q	         :::::::::   :::::::: ::::::::::: ::::::::  :::    :::    
+                  &q	       :+:    :+: :+:    :+:    :+:    :+:    :+: :+:    :+:     
+                  &q	      +:+    +:+ +:+    +:+    +:+    +:+         +:+  +:+       
+                  &q	     +#+    +:+ +#+    +:+    +#+    +#++:++#++   +#++:+         
+                  &q	    +#+    +#+ +#+    +#+    +#+           +#+  +#+  +#+         
+                  &q	   #+#    #+# #+#    #+#    #+#    #+#    #+# #+#    #+#         
+                  &q	  #########   ########     ###     ########  ###    ###    
+                  
+    
+    &e(!) &kUtiliza &w%hotkey_w, %hotkey_s &ky &wENTER&k para desplazarte, utiliza &w%hotkey_p &kpara seleccionar una opción.
+    
+       %sel1==> &kAnimaciones (&w%hotkey_p&k Para intercambiar) Actual: &r%animations
+       %sel2==> &kMúsica (&w%hotkey_p&k Para intercambiar) Actual: &r%music
+       %sel3==> &kHotkey W (&w%hotkey_p&k Para cambiar) Actual: &r%hotkey_w
+       %sel4==> &kHotkey A (&w%hotkey_p&k Para cambiar) Actual: &r%hotkey_a
+       %sel5==> &kHotkey S (&w%hotkey_p&k Para cambiar) Actual: &r%hotkey_s
+       %sel6==> &kHotkey D (&w%hotkey_p&k Para cambiar) Actual: &r%hotkey_d
+       %sel7==> &kHotkey P (&w%hotkey_p&k Para cambiar) Actual: &r%hotkey_p
+                       
+       %sel8==> &kVolver al Menú
+       

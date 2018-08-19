@@ -1,0 +1,40 @@
+@font-face {
+    src: url("../fonts/Alien.ttf"),
+}
+
+.combo-box .list-cell {
+	
+    -fx-background: white;
+    -fx-background-color: transparent;
+    -fx-font-family: "8-Bit Madness";
+    -fx-font-size: 30pt;
+    -fx-text-fill: -fx-text-base-color;
+    -fx-padding: 3 0 2 7;
+    -fx-cell-size: 1.66667em; 
+    
+}
+
+.combo-box .arrow {
+    -fx-background-color: white;
+    -fx-size: 20pt;
+    -fx-background-insets: 0 0 0 0;
+    -fx-padding: 2 4;
+    -fx-shape: "M 0 0 H 7 L 3.5 4 z";
+}
+
+
+.combo-box .arrow-button {
+    -fx-background-color: cyan;
+}
+
+.combo-box-popup > .list-view > .virtual-flow > .clipped-container > .sheet > .list-cell:filled:hover,
+.combo-box-popup > .list-view > .virtual-flow > .clipped-container > .sheet > .list-cell:filled:selected:hover {
+    -fx-background-color: silver;
+}
+
+.combo-box {
+	
+    -fx-background-color: white;
+    -fx-font-family: "8-Bit Madness";
+    
+}
