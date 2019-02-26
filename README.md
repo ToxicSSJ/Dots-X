@@ -1,6 +1,5 @@
 # Dots-X
 Final project of first semester in EAFIT University (Programming Fundamentals), winner of a GEMIS award.
-
 Dots-X is a game based on the famous Android or iOS Dots, this time it was made in Java through the JavaFX library.
 
 # Introduction
