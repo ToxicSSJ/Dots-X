@@ -94,7 +94,7 @@ public class MainPane extends Pane {
 		
 		diskGif = new ImageView(new Image(DotsX.getResourceAsStream("images/gif/disc.gif")));
 		diskGif.setPreserveRatio(false);
-		
+
 		diskGif.setFitHeight(35);
 		diskGif.setFitWidth(35);
 		

@@ -235,7 +235,7 @@ public class SplashPane extends StackPane implements GraphicReferrer {
 				bounceline.setRate(1);
 				bounceline.play();
 				
-				SoundType.GRAPHIC_WOOSH.getPlay().play();
+				//SoundType.GRAPHIC_WOOSH.getPlay().play();
 				
 			}
 			

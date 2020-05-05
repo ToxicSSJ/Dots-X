@@ -106,7 +106,9 @@ public class DesktopAdapter extends Application implements GraphicProvider {
 		
 		stage.setFullScreenExitKeyCombination(KeyCombination.NO_MATCH);
 		stage.getIcons().add(new Image(DotsX.getResource("images/icon.png").toExternalForm()));
-		
+
+		System.out.println(DotsX.getResource("images/icon.png").toExternalForm());
+
 		Scene scene = new Scene(pane);
 		
 		scene.addEventFilter(MouseEvent.DRAG_DETECTED , new EventHandler<MouseEvent>() {
